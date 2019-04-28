@@ -38,4 +38,3 @@ function preserveDecimal(n) {
 function preserveDecimal(n) {
   parseFloat ('n', 2.222)
 }
-
