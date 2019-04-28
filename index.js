@@ -23,17 +23,6 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  parseInt('n', 10)
-}
-
-function makeInt(n) {
-  parseInt('0x2328', 10)
-}
-
-function preserveDecimal(n) {
-  parseFloat('n')
-}
-
-function preserveDecimal(n) {
-  parseFloat (2.222)
+  parseInt(n)
+  return n
 }
