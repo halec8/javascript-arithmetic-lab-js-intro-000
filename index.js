@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return parseInt(n, 850)
+  return parseInt(n, 91)
 }
