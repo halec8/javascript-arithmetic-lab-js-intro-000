@@ -25,7 +25,6 @@ function dec(n) {
 function makeInt(n) {
   return parseInt('n')
 }
-
-function makeInt(n) {
-  return parseInt(n, 91)
-}
+  { return parseInt(0x23328)
+  }
+  
