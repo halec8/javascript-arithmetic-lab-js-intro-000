@@ -23,7 +23,7 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  
+
 }
 
 function makeInt(n) {
