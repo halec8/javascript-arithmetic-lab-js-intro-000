@@ -25,11 +25,3 @@ function dec(n) {
 function makeInt(n) {
   parseInt('n')
 }
-
-function makeInt(n) {
-  parseInt('n', 869)
-}
-
-function makeInt(n) {
-  parseInt('0x2328', 10)
-}
